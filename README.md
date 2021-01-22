@@ -4,7 +4,7 @@ SuaCodeAfrica Developer\
 Currently using Nodejs and Spring for Backend Development with using Vue and React Js for Frontend Development\
 👯 I’m looking to collaborate with on whatever looks forward to techs.\
 💬 Ask me about future of Coding\
-🎖🏆 I developed these web apps: 
+🎖🏆 My works:  
 * https://www.emlrruhengeri.com/
 * https://dms-demo.netlify.app/ 
 * https://thechildfocus.rw/ssystem/ 
