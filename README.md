@@ -1,6 +1,6 @@
 I am Gervais Ishimwe \
 SuaCodeAfrica Developer\
-🔭 I’m Software developer(Full stack)
+🔭 I’m Software developer(Full stack)\
 Currently using Nodejs and Spring for Backend Development \
 Vue and React Js for Frontend Development\
 👯 I’m looking to collaborate with on whatever looks forward to techs.\
