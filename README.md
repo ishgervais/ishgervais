@@ -10,5 +10,5 @@ Currently using Nodejs and Spring for Backend Development with using Vue and Rea
 * https://thechildfocus.rw/ssystem/\
 * https://ao-td.netlify.app/\
 * https://kinpad.netlify.app/signup\
-* ....
-📫 How to reach me: ishimwegervias11@gmail.com
+* ....\
+📫 Reach me via: ishimwegervias11@gmail.com
