@@ -9,6 +9,6 @@ Currently using Nodejs and Spring for Backend Development with using Vue and Rea
 * https://dms-demo.netlify.app/ 
 * https://thechildfocus.rw/ssystem/ 
 * https://ao-td.netlify.app/ 
-* https://kinpad.netlify.app/signup 
+* https://kinpad.netlify.app/
 * .... \
 📫 Reach me via: ishimwegervias11@gmail.com
