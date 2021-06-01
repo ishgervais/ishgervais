@@ -5,6 +5,7 @@ Currently using Nodejs and Spring for Backend Development \
 Vue and React Js for Frontend Development\
 👯 Looking forward to collaborate in trending techs.\
 🎖🏆 My works:  
+* https://wai-org.vercel.app/
 * https://www.emlrruhengeri.com/
 * https://dms-demo.netlify.app/ 
 * https://mechanic-job-frontend.vercel.app/
