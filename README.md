@@ -8,7 +8,7 @@ Vue and React Js for Frontend Development\
 * https://wai-org.vercel.app/
 * https://www.emlrruhengeri.com/
 * https://dms-demo.netlify.app/ 
-* https://mechanic-job-frontend.vercel.app/
+* https://bluej.vercel.app/
 * https://thechildfocus.rw/ssystem/ 
 * https://ao-td.netlify.app/ 
 * https://kinpad.netlify.app/
