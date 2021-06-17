@@ -4,10 +4,10 @@ SuaCodeAfrica Developer\
 Currently using Nodejs and Spring for Backend Development \
 Vue and React Js for Frontend Development\
 👯 Looking forward to collaborate in trending techs.\
-🎖🏆 My works:  
+🎖🏆 My works:
+* https://eco-trace.netlify.app/  
 * https://wai-org.vercel.app/ 
 * https://bluej.vercel.app/
-* https://dms-demo.netlify.app/
 * https://www.emlrruhengeri.com/
 * https://thechildfocus.rw/ssystem/ 
 * https://ao-td.netlify.app/ 
