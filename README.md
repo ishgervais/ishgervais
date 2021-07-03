@@ -20,4 +20,4 @@ Vue and React Js for Frontend Development\
 Certifications: 
 The Responsive Web Design certification @freecodecamp: https://freecodecamp.org/certification/am_gervais/responsive-web-design \
 The JavaScript Algorithms and Data Structures certification @freecodecamp: https://www.freecodecamp.org/certification/am_gervais/javascript-algorithms-and-data-structures \
-📫 Reach me via: ishimwegervias11@gmail.com
+📫 Reach me via: gervais@ejobu.com
