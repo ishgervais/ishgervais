@@ -2,7 +2,7 @@ I am Gervais Ishimwe\
 SuaCodeAfrica Developer\
 Software developer(Full stack)\
 Currently using Node [js/ts] and Springboot for Backend Development \
-React, Vue [js/ts] and Angular for Frontend Development\
+React + Next [js/ts], Vue [js/ts] and Angular for Frontend Development\
 React native for Mobile development
 👯 Looking forward to collaborate in trending techs.\
 🎖🏆 My works:
