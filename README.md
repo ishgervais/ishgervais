@@ -1,8 +1,9 @@
-I am Gervais Ishimwe, ( Gersh ) \
+I am Gervais Ishimwe\
 SuaCodeAfrica Developer\
-🔭Software developer(Full stack)\
-Currently using Nodejs and Spring for Backend Development \
-Vue and React Js for Frontend Development\
+Software developer(Full stack)\
+Currently using Node [js/ts] and Springboot for Backend Development \
+React, Vue [js/ts] and Angular for Frontend Development\
+React native for Mobile development
 👯 Looking forward to collaborate in trending techs.\
 🎖🏆 My works:
 * https://eco-trace.netlify.app/  
