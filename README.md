@@ -4,6 +4,7 @@ Software developer(Full stack)\
 Currently using Node [js/ts] and Springboot for Backend Development \
 React + Next [js/ts], Vue [js/ts] and Angular for Frontend Development\
 React native for Mobile development
+Also expert in: PHP,Laravel, and C++
 👯 Looking forward to collaborate in trending techs.\
 🎖🏆 My works:
 * https://eco-trace.netlify.app/  
