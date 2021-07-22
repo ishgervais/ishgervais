@@ -1,5 +1,5 @@
 
-<h1 align="">Hola Folks, here I'm <a href="https://phelixdusengimanaweb.vercel.app/" target="__blank">Gervais Ishimwe</a> <img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Gersh"/></h1>
+<h1 align="">Hola Folks<img width="25px" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" alt="Hi from Gersh"/>, I'm Gervais Ishimwe</h1>
 <br/>
 SuaCodeAfrica Developer<br/>
 Software developer(Full stack)<br/>
