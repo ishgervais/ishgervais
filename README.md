@@ -1,4 +1,7 @@
+<h1 align="center">—</h1>
 
-<h1 align="">--</h1>
 <br/>
-<a target = "_blank" href="https://amgervais.vercel.app/">👉 See my works here</a>
+
+<a href="https://amgervais.vercel.app/" target="_blank" rel="noopener noreferrer">
+  👉 See my work here
+</a>
